@@ -6,7 +6,7 @@ PackageVersion: 1.8.2
 PackageLocale: en-US
 Publisher: yt-dlg
 PackageName: yt-dlg
-License: MIT
+License: Unlicense
 ShortDescription: A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 ManifestType: defaultLocale
 ManifestVersion: 1.0.0
